@@ -47,8 +47,8 @@ We’re working closely with select partners to deliver a stable and powerful ex
 
 If you’re interested in collaborating, integrating, or joining our early access program, contact us at:
 
-📧 **[info@flowapps.io](mailto:contact@flowapps.me)**
-🌐 [https://flowapps.io](https://flowapps.me)
+📧 **[contact@flowapps.me](mailto:contact@flowapps.me)**
+🌐 [https://flowapps.me](https://flowapps.me)
 
 ---
 
