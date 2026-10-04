@@ -1,58 +1,40 @@
-# 🌊 FlowApps
+<p align="center">
+  <a href="https://flowapps.me">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/flowapps-logo-dark.svg">
+      <img src="./assets/flowapps-logo-light.svg" alt="FlowApps" width="360">
+    </picture>
+  </a>
+</p>
 
-**Empowering Businesses with Seamless Automation and Communication.**
+<p align="center"><strong>Empower Your Business, Simplify Success.</strong></p>
 
-FlowApps is a **B2B software company** focused on helping businesses streamline operations, automate workflows, and manage client communications — all from one powerful Windows desktop platform.
+FlowApps builds software that takes the friction out of everyday work, for businesses and for the people in them. Arabic and English are first-class in everything we ship, including full right-to-left layouts.
 
-Our mission is to simplify business management through smart automation, robust integrations, and intuitive design.
+## What we build
 
----
+| Product | What it is | Status |
+| --- | --- | --- |
+| **FlowApps** | A business management platform: customers, invoices and payments in one place, with WhatsApp built in for talking to clients. | Private beta |
+| **[Emailify](https://flowapps.me/emailify)** | A mail app that keeps Outlook, Microsoft 365 and Gmail accounts side by side, one tap apart. | Android, closed testing on Google Play |
+| **TodoHub** | A to-do list where every task can carry its own steps. Your list stays on your device and syncs between your devices over Wi-Fi, with no account. | Android, closed testing on Google Play |
 
-## 💼 About FlowApps
+## How we work
 
-FlowApps provides a unified desktop solution that helps businesses:
+- **Simple first.** A common task should take a few taps and need no manual.
+- **Arabic and English, equally.** Right-to-left is designed in, not translated in afterwards.
+- **Your data is yours.** We collect as little as we can and say plainly what we do collect. See our [privacy policy](https://flowapps.me/privacy).
+- **Proven technology.** We choose tools we can run and maintain for years.
 
-* Automate repetitive workflows
-* Manage clients, invoices, and payments automatically
-* Communicate efficiently through built-in **WhatsApp integration**
-* Gain real-time insights into business performance
-* Keep operations secure and scalable with enterprise-grade technology
+## Get in touch
 
-We believe that automation should be accessible, efficient, and secure — without needing complex setups or cloud dependencies.
+- Website: [flowapps.me](https://flowapps.me)
+- Email: [contact@flowapps.me](mailto:contact@flowapps.me)
+- Early access or partnerships: write to us and say which product you are interested in.
+- Found a security issue? Email us before disclosing it publicly, and we will reply.
 
----
+## Company
 
-## 🧩 Key Features
+FlowApps OÜ is registered in Tallinn, Estonia (registry code [17340906](https://ariregister.rik.ee/eng/company/17340906)).
 
-* **Windows Desktop Application** (designed for business environments)
-* **WhatsApp Integration** for direct customer communication
-* **Automatic Payment Management** (track, notify, and reconcile payments)
-* **Workflow Automation** to save time and reduce manual work
-* **Team Management Tools** with activity and productivity tracking
-* **Customizable Reports & Analytics**
-* **Secure Local Data Handling**
-
----
-
-## 🚀 Our Vision
-
-To become the go-to automation suite for businesses seeking performance, privacy, and productivity — all in one tool.
-
----
-
-## 🤝 Join the Journey
-
-FlowApps is currently in **private beta**.
-We’re working closely with select partners to deliver a stable and powerful experience before public release.
-
-If you’re interested in collaborating, integrating, or joining our early access program, contact us at:
-
-📧 **[contact@flowapps.me](mailto:contact@flowapps.me)**
-🌐 [https://flowapps.me](https://flowapps.me)
-
----
-
-## 📜 License
-
-FlowApps and its repositories are proprietary software unless stated otherwise.
-Some components may be released under open-source licenses — see individual repository licenses for details.
+Most of our repositories are private. FlowApps software is proprietary unless a repository's licence says otherwise.
