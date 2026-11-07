@@ -1,0 +1,33 @@
+name: Feature request
+description: A new capability, or a change to how something works.
+title: "feat: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Who has this problem, and what does it cost them today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: What should happen instead. Sketches and examples help.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Customer requests, support emails, reviews or data that show the need. Say if it is a hunch.
+  - type: textarea
+    id: scope
+    attributes:
+      label: Smallest useful version
+      description: What could ship first, and what can wait?
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
