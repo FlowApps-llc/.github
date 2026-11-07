@@ -9,13 +9,13 @@
 
 <p align="center"><strong>Empower Your Business, Simplify Success.</strong></p>
 
-FlowApps builds software that takes the friction out of everyday work, for businesses and for the people in them. We build for Arabic and English from the start: the FlowApps platform runs in both languages, and our apps lay out Arabic text correctly, right to left.
+FlowApps builds software that takes the friction out of everyday work, for businesses and for the people in them. We build for Arabic and English from the start: BMS runs in both languages, and our apps lay out Arabic text correctly, right to left.
 
 ## What we build
 
 | Product | What it is | Status |
 | --- | --- | --- |
-| **FlowApps** | A business management platform: customers, invoices and payments in one place, with WhatsApp built in for talking to clients. | Private beta |
+| **BMS** | A business management platform: customers, invoices and payments in one place, with WhatsApp built in for talking to clients. | Private beta |
 | **[Emailify](https://flowapps.me/emailify)** | A mail app that keeps Outlook, Microsoft 365 and Gmail accounts side by side, one tap apart. | Android, closed testing on Google Play |
 | **TodoHub** | A to-do list where every task can carry its own steps and reminders. Your list stays on your device and syncs between your devices over Wi-Fi, with no account. | Android and iOS, closed testing on Google Play and TestFlight |
 
