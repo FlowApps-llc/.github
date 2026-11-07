@@ -32,7 +32,7 @@ FlowApps builds software that takes the friction out of everyday work, for busin
 - Email: [contact@flowapps.me](mailto:contact@flowapps.me)
 - Early access or partnerships: write to us and say which product you are interested in.
 - Need help with a product? See [how to get support](https://github.com/FlowApps-llc/.github/blob/main/SUPPORT.md).
-- Found a security issue? Follow our [security policy](https://github.com/FlowApps-llc/.github/blob/main/SECURITY.md) and email us before disclosing it publicly.
+- Found a security issue? Email us before disclosing it publicly, and we will reply.
 
 ## Company
 
