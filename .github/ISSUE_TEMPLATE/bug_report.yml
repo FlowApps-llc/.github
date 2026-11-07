@@ -1,0 +1,61 @@
+name: Bug report
+description: Something is broken or behaves differently from what it should.
+title: "fix: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Security problem?** Do not file it here. Email contact@flowapps.me as described in SECURITY.md.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you saw, and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open …
+        2. Tap …
+        3. See …
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      description: App version and build (e.g. 1.0.0 (14)), or the deployed commit / environment.
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      multiple: true
+      options:
+        - Android
+        - iOS
+        - Web
+        - Desktop
+        - Backend / API
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      description: Some bugs only appear in one language or text direction.
+      options:
+        - English
+        - Arabic (right to left)
+        - Both
+        - Not relevant
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots, logs or recordings
+      description: Remove tokens, passwords and other people's personal data first.
